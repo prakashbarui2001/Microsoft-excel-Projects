@@ -34,6 +34,15 @@ Step 4: Data Analysis-
       Since I need the sum of the amount and the count of the order IDs on a monthly basis:
       Place the "Amount" and "Order ID" in the values section of the pivot table.
       Place the "Month" in the rows section of the pivot table.
+
+
+
+
+
+
+![Picture1](https://github.com/user-attachments/assets/f21c91ba-5bc1-44e8-9b3e-fb12381bdcd0)
+
+      
       
       
       ii) Men vs. Women Sales:
@@ -42,13 +51,21 @@ Step 4: Data Analysis-
       First, calculate the percentage of total sales for men vs. women.
       Place the "Amount" in the values section of the pivot table.
       Place the "Gender" in the rows section of the pivot table.
+
+
+      ![Picture2](https://github.com/user-attachments/assets/8dc0f575-50e8-4123-a2a9-d2c0f807f457)
+
       
       iii)Order Status: Percentage of Orders (Cancelled, Delivered, Returned, Refunded):
       To analyze the percentage of orders by status:
       Pivot the table.
       First, place "Order ID" in the values section of the pivot table.
       Place the statuses "Cancelled," "Delivered," "Returned," and "Refunded" in the rows section of the pivot table.
+
+
       
+      ![Picture3](https://github.com/user-attachments/assets/394824df-2101-4019-99d4-2441641e8481)
+
       iv)Top 5 States by Sales Data:
       To get the top 5 states by sales data:
       Pivot the table.
@@ -56,6 +73,10 @@ Step 4: Data Analysis-
       Place "States" in the rows section of the pivot table.
       Sort the rows by the largest values.
       Extract the top 5 values from the sorted rows.
+
+
+      ![Picture4](https://github.com/user-attachments/assets/fd23db96-84c9-499c-8f54-cd173652790e)
+
       
       v)Age and Gender Data Along with Orders:
       To analyze orders based on age and gender:
@@ -63,14 +84,19 @@ Step 4: Data Analysis-
       Place "Order ID" in the values section of the pivot table.
       Place "Age Group" in the rows section of the pivot table.
       Place "Gender" in the columns section of the pivot table.
+
+      ![Picture5](https://github.com/user-attachments/assets/4d244b99-3ddd-48ba-a410-d398ac10dac1)
+
       
       vi)Channels vs. Orders:
       To analyze the number of orders by channel:
       Pivot the table.
       Place "Order ID" in the values section of the pivot table.
       Place "Channels" in the rows section of the pivot table.
-
       
+
+      ![Picture6](https://github.com/user-attachments/assets/0ae3e123-580c-4061-9dda-9db13540f344)
+
 
 
 
