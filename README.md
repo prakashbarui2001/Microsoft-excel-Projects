@@ -55,6 +55,19 @@ Step 4: Data Analysis-
 
       ![Picture2](https://github.com/user-attachments/assets/8dc0f575-50e8-4123-a2a9-d2c0f807f457)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
       
       iii)Order Status: Percentage of Orders (Cancelled, Delivered, Returned, Refunded):
       To analyze the percentage of orders by status:
