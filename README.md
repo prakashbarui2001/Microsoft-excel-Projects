@@ -35,16 +35,6 @@ Step 4: Data Analysis-
       Place the "Amount" and "Order ID" in the values section of the pivot table.
       Place the "Month" in the rows section of the pivot table.
 
-
-
-
-
-
-![Picture1](https://github.com/user-attachments/assets/f21c91ba-5bc1-44e8-9b3e-fb12381bdcd0)
-
-      
-      
-      
       ii) Men vs. Women Sales:
       To analyze the percentage of total sales between men and women:
       Pivot the table.
@@ -52,32 +42,11 @@ Step 4: Data Analysis-
       Place the "Amount" in the values section of the pivot table.
       Place the "Gender" in the rows section of the pivot table.
 
-
-      ![Picture2](https://github.com/user-attachments/assets/8dc0f575-50e8-4123-a2a9-d2c0f807f457)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      
       iii)Order Status: Percentage of Orders (Cancelled, Delivered, Returned, Refunded):
       To analyze the percentage of orders by status:
       Pivot the table.
       First, place "Order ID" in the values section of the pivot table.
       Place the statuses "Cancelled," "Delivered," "Returned," and "Refunded" in the rows section of the pivot table.
-
-
-      
-      ![Picture3](https://github.com/user-attachments/assets/394824df-2101-4019-99d4-2441641e8481)
 
       iv)Top 5 States by Sales Data:
       To get the top 5 states by sales data:
@@ -87,10 +56,6 @@ Step 4: Data Analysis-
       Sort the rows by the largest values.
       Extract the top 5 values from the sorted rows.
 
-
-      ![Picture4](https://github.com/user-attachments/assets/fd23db96-84c9-499c-8f54-cd173652790e)
-
-      
       v)Age and Gender Data Along with Orders:
       To analyze orders based on age and gender:
       Pivot the table.
@@ -98,9 +63,6 @@ Step 4: Data Analysis-
       Place "Age Group" in the rows section of the pivot table.
       Place "Gender" in the columns section of the pivot table.
 
-      ![Picture5](https://github.com/user-attachments/assets/4d244b99-3ddd-48ba-a410-d398ac10dac1)
-
-      
       vi)Channels vs. Orders:
       To analyze the number of orders by channel:
       Pivot the table.
@@ -108,7 +70,16 @@ Step 4: Data Analysis-
       Place "Channels" in the rows section of the pivot table.
       
 
-      ![Picture6](https://github.com/user-attachments/assets/0ae3e123-580c-4061-9dda-9db13540f344)
+     Sample Insights:
+        Women are more likely to buy compared to men (approximately 65%).
+        Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing to sales (approximately 35%).
+        The Adult Age Group (30-49) is the most contributing (approximately 50%).
+        Amazon, Flipkart, and Myntra are the channels contributing the most (approximately 80%).
+        
+        Final Conclusion to Improve Vrinda Stores Sales:
+
+        Target women customers in the age group of 30-49 in Maharashtra, Karnataka, and Uttar Pradesh.
+        Promote ads, offers, and coupons available on Amazon, Flipkart, and Myntra to attract these customers.
 
 
 
